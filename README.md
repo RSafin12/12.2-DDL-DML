@@ -1,5 +1,7 @@
 # 12.2.-DDL-DML
 
+## Задание 1
+
 #### Создаем учетную запись
 `create user 'sys_temp'@'%' identified by 'netpass0';`
 
@@ -20,3 +22,5 @@
 
 #### ER-диаграмма
 ![ER-diagram](https://github.com/RSafin12/12.2-DDL-DML/blob/main/5.png)
+
+## Задание 2
